@@ -1,6 +1,14 @@
+<-- This project is centered around the development of a Solana cryptocurrency wallet and the implementation of cryptocurrency tracking functionalities. Drawing upon a comprehensive educational resource, specifically a tutorial sourced from a reputable YouTube video, I acquired the necessary knowledge to proficiently navigate the Solana ecosystem and seamlessly integrate the frontend with blockchain technology. Through meticulous study and practical application, I have leveraged these insights to enhance the project's robustness and functionality, ensuring a seamless user experience within the realm of cryptocurrency management and tracking. -->
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Install The all Dependencies before start
+
+<npm i npm@latest --force> only if <npm i> does not work
+
 
 First, run the development server:
 
